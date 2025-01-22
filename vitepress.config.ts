@@ -6,7 +6,7 @@ const defaultConfig = {
     blogTitle: 'CAN BLOG',
     blogDescription: 'can blog',
     blogLogo: '/logo/logo.png',   
-    base: '/can-vitepress-blog' 
+    base: '/can-vitepress-blog-user' 
 };
 
   
